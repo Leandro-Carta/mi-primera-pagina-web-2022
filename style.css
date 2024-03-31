@@ -1,0 +1,89 @@
+body {
+    background-image: https://cdn5.dibujos.net/dibujos/pintados/201219/hamburguesa-con-lechuga-comida-pan-y-pasta-pintado-por-pipig-9738332.jpg;
+    
+    background-color: rgb(192, 198, 201);font-family: 'Press Start 2P', cursive; line-height: 2;padding: 50px;margin: 30px;}
+
+
+#image1 {width:850px; height: 550px; object-fit: cover;border: 10px solid green;}
+#imagen2 {width: 1100px;height: 550px; object-fit: cover; border: 10px solid green;}
+#image3 {width: 1700px;height: 750px; object-fit: cover; border: 10px solid green; margin-top: 30px;}
+#image4 {width: 1500px;height: 750px; object-fit: cover;border: 10px solid green;margin-top: 30px;}
+#image5{ width: 1300px; height: 750px;object-fit: cover; border: 10px solid green; margin-top: 50px;}
+#image6{width: 1300px;height: 550px  ;object-fit: cover; border: 10px solid green; margin-top: 10px;}
+
+    
+
+
+ .titulo{color: rgb(101, 35, 224);}
+
+h1  { background-color: rgb(190, 197, 124);display:block ;
+color: rgb(240, 243, 245);font-family: 'Press Start 2P', cursive;; font-size: 50px;padding: 50px  ;margin-bottom: 50px;border-radius: 50px;box-shadow: 30px 20px 10px 10px #000;text-align: center;
+
+}
+
+    
+h2  {
+    color: rgb(0, 0, 0);display:inline-block;margin: auto;padding: 50px;border-radius: 30px;background-color: azure;
+
+
+
+   h3 b { color: #000; background-attachment: fixed; font: size 50px;
+        }
+    
+
+    
+h4  {
+    color: rgb(60, 99, 206);
+
+
+    }
+
+
+
+
+    p  {
+        color: rgb(7, 2, 2);font-family: 'Fredoka One', cursive;
+        font-family: 'Shizuru', cursive;display:block
+        }
+
+.parrafocolor {
+        color: rgb(0, 0, 0)
+        }
+
+#pie {color:rgb(31, 31, 94);background-color: rgb(45, 129, 101);
+
+#ultimopedido{color:rgb(100, 41, 41);background-color: rgb(255, 255, 255);font-family: 'Fredoka One', cursive;
+    font-family: 'Shizuru', cursive;; }
+
+
+
+
+#bebidas {color: rgb(0, 0, 0);}
+
+
+#comentarioprimero{color: rgb(0, 0, 0); margin: 30px; padding: 50px;}
+
+
+#fototitulo{background-color: rgba(20, 109, 75, 0.61);}
+
+
+#publicidad{background-color: rgb(230, 236, 219);}
+
+.imagen {height: 700px; width:700px ;}
+
+
+
+footer { border-color: black; border-width: 10px; background-color: aquamarine; padding: 100px;}
+
+#principal { font-size: 100px;}
+
+
+
+h2 #preguntas { background-color: aqua;}
+
+#lista { margin-top: 350px;}
+
+
+
+
+
